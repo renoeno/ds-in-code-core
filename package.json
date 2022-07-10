@@ -13,8 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@renoeno/design-assets": "file:../assets",
-    "@renoeno/design-tokens-meiuca": "file:../design-tokens",
+    "@renoeno/design-assets": "file:../design-system-assets",
+    "@renoeno/design-tokens-meiuca": "file:../design-system-tokens",
     "lit": "^2.2.7"
   },
   "devDependencies": {
