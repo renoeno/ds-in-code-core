@@ -1,6 +1,6 @@
 {
   "name": "@renoeno/dsc-design-system-meiuca",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -20,8 +20,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@renoeno/design-assets": "file:../design-system-assets",
-    "@renoeno/design-tokens-meiuca": "file:../design-system-tokens",
+    "@renoeno/design-assets-meiuca": "^0.1.0",
+    "@renoeno/design-tokens-meiuca": "^0.1.0",
     "lit": "^2.2.7"
   },
   "devDependencies": {

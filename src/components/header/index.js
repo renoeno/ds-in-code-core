@@ -4,8 +4,8 @@ import style from "./style.scss";
 import Brand from "./Brand.js";
 import { createSvgElement } from "../../../utils/js/svgHelper";
 import { hostContextHelper } from "../../../utils/js/hostContextHelper";
-import menu from "@renoeno/design-assets/dist/assets/icons/menu";
-import close from "@renoeno/design-assets/dist/assets/icons/close";
+import menu from "@renoeno/design-assets-meiuca/dist/assets/icons/menu";
+import close from "@renoeno/design-assets-meiuca/dist/assets/icons/close";
 import "../icon";
 
 export default class DscHeader extends LitElement {

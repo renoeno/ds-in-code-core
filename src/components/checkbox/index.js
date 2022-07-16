@@ -1,7 +1,7 @@
 import { LitElement, html, unsafeCSS } from "lit";
 import { classMap } from "lit/directives/class-map.js";
 import style from "./style.scss";
-import check from "@renoeno/design-assets/dist/assets/icons/check.js";
+import check from "@renoeno/design-assets-meiuca/dist/assets/icons/check";
 import "../icon";
 
 export default class DscCheckbox extends LitElement {

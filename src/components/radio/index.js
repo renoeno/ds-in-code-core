@@ -1,7 +1,7 @@
 import { LitElement, html, unsafeCSS } from "lit";
 import { classMap } from "lit/directives/class-map.js";
 import style from "./style.scss";
-import bullet from "@renoeno/design-assets/dist/assets/icons/bullet.js";
+import bullet from "@renoeno/design-assets-meiuca/dist/assets/icons/bullet.js";
 
 import "../icon";
 

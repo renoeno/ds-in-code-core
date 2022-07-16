@@ -1,6 +1,6 @@
 import { html } from "lit";
-import options from "@renoeno/design-assets/dist/assets/icons/exported-assets-list.js";
-import * as icons from "@renoeno/design-assets/dist/assets/icons";
+import options from "@renoeno/design-assets-meiuca/dist/assets/icons/exported-assets-list.js";
+import * as icons from "@renoeno/design-assets-meiuca/dist/assets/icons";
 import "./index";
 
 export default {
